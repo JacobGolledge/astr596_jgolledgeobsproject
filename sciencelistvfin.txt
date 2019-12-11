@@ -1,0 +1,10 @@
+s045_tr.fits
+s046_tr.fits
+s047_tr.fits
+s048_tr.fits
+s049_tr.fits
+s050_tr.fits
+s051_tr.fits
+s052_tr.fits
+s062_tr.fits
+s063_tr.fits

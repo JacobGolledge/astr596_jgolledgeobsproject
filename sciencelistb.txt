@@ -1,0 +1,11 @@
+s053.fits
+s054.fits
+s055.fits
+s056.fits
+s057.fits
+s058.fits
+s059.fits
+s060.fits
+s064.fits
+s065.fits
+s066.fits

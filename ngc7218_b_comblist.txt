@@ -1,0 +1,10 @@
+s054_trbfa.fits
+s055_trbfa.fits
+s056_trbfa.fits
+s057_trbfa.fits
+s058_trbfa.fits
+s059_trbfa.fits
+s060_trbfa.fits
+s064_trbfa.fits
+s065_trbfa.fits
+s066_trbfa.fits

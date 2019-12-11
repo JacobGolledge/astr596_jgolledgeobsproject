@@ -1,0 +1,5 @@
+f029_tr.fits
+f030_tr.fits
+f031_tr.fits
+f032_tr.fits
+f033_tr.fits

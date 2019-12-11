@@ -1,0 +1,11 @@
+s093_trb.fits
+s094_trb.fits
+s095_trb.fits
+s096_trb.fits
+s097_trb.fits
+s098_trb.fits
+s099_trb.fits
+s100_trb.fits
+s104_trb.fits
+s105_trb.fits
+s106_trb.fits
